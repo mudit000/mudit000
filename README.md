@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Mudit 👋 
 
-Seasoned [Devops](https://milindchawre.github.io/) who is passionate about Cloud,K8s,Security,CICD,Networking,Automation and about new tools and technologies.
+Seasoned [Devops](https://www.youtube.com/channel/UC99Vhv5_2kwszRYBoY6HYmw) who is passionate about Cloud,K8s,Security,CICD,Networking,Automation and about new tools and technologies.
 
 ![Mudit Github Stats](https://github-readme-stats.vercel.app/api?username=mudit000&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&hide=contribs&bg_color=151515)
 
