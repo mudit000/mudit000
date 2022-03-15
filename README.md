@@ -33,6 +33,9 @@ Seasoned [Devops](https://www.youtube.com/channel/UC99Vhv5_2kwszRYBoY6HYmw) who 
 <a href="https://github.com/mudit000">
   <img align="left" alt="Mudit GitHub" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/github.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UC99Vhv5_2kwszRYBoY6HYmw">
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
+</a>
 <br/><br/>
 
 ![ViewCount](https://komarev.com/ghpvc/?username=mudit000&style=plastic&label=views)
