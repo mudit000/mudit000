@@ -34,7 +34,8 @@ Seasoned [Devops](https://www.youtube.com/channel/UC99Vhv5_2kwszRYBoY6HYmw) who 
   <img align="left" alt="Mudit GitHub" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/github.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC99Vhv5_2kwszRYBoY6HYmw">
- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC99Vhv5_2kwszRYBoY6HYmw&key=AIzaSyCWVE2R-qbjhD8MDkJRbRB4jiAgyp8Y7KE"/>
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC99Vhv5_2kwszRYBoY6HYmw&key=AIzaSyCWVE2R-qbjhD8MDkJRbRB4jiAgyp8Y7KE"
+ />
 </a>
 <br/><br/>
 
