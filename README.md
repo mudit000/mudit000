@@ -36,12 +36,6 @@ Seasoned [Devops](https://www.youtube.com/channel/UC99Vhv5_2kwszRYBoY6HYmw) who 
 
 <br/><br/>
 
-## 📺 Latest YouTube videos
 
-<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - WIP by DenverCoder1 -->
-
-<!-- YOUTUBE:START -->
-[![Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;](https://www.youtube.com/watch?v=0p_eQGKFY3I "Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;")
 
 ![ViewCount](https://komarev.com/ghpvc/?username=mudit000&style=plastic&label=views)
